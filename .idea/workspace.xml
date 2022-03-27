@@ -35,7 +35,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Downloads/School/College/4 Senior Spring/CS 4395 Human Language Technologies/Python/Homework 4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Downloads/School/College/4 Senior Spring/CS 4395 Human Language Technologies/Python/Homework 4" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -78,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -97,54 +97,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="469" y="334" key="FileChooserDialogImpl" timestamp="1648240617747">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state x="469" y="334" key="FileChooserDialogImpl/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648240617747" />
-    <state width="1353" height="316" key="GridCell.Tab.0.bottom" timestamp="1648239694660">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="1353" height="316" key="GridCell.Tab.0.bottom/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648239694660" />
-    <state width="1353" height="316" key="GridCell.Tab.0.center" timestamp="1648239694659">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="1353" height="316" key="GridCell.Tab.0.center/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648239694659" />
-    <state width="1353" height="316" key="GridCell.Tab.0.left" timestamp="1648239694659">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="1353" height="316" key="GridCell.Tab.0.left/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648239694659" />
-    <state width="1353" height="316" key="GridCell.Tab.0.right" timestamp="1648239694659">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="1353" height="316" key="GridCell.Tab.0.right/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648239694659" />
-    <state width="2731" height="392" key="GridCell.Tab.1.bottom" timestamp="1648237666476">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="2731" height="392" key="GridCell.Tab.1.bottom/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648237666476" />
-    <state width="2731" height="392" key="GridCell.Tab.1.center" timestamp="1648237666476">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="2731" height="392" key="GridCell.Tab.1.center/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648237666476" />
-    <state width="2731" height="392" key="GridCell.Tab.1.left" timestamp="1648237666476">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="2731" height="392" key="GridCell.Tab.1.left/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648237666476" />
-    <state width="2731" height="392" key="GridCell.Tab.1.right" timestamp="1648237666476">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state width="2731" height="392" key="GridCell.Tab.1.right/3440.209.1536.864/0.0.2752.1152@0.0.2752.1152" timestamp="1648237666476" />
-    <state x="277" y="74" key="SettingsEditor" timestamp="1647970307326">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="277" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1647970307326" />
   </component>
 </project>
