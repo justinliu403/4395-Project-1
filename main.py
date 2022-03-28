@@ -3,9 +3,12 @@
 # Project 1: Web Scraping
 # jtl170000, pxm170012
 
+# This program will create a knowledge base for a topic based on a starting URL
+# Input: A URL that links to a webpage that has other URLs as a string the main method
+# Output: The top terms in the data collected. A dictionary of the Knowledge Base
+# It will also create a lot of files for the data to be stored and a pickle file of the knowledge base
 
-from urllib import request
-import urllib
+
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 import re
@@ -14,13 +17,18 @@ import os
 from nltk import sent_tokenize
 from nltk.corpus import stopwords
 from nltk import word_tokenize
-import math
+import pickle
 
 
+# This method go through the inital URL and gets more URLs
+# Input: The starting url as a string
+# Output: Returns a list of urls as a string
 def url_crawler(starter_url):
-    r = request.Request(starter_url)
-    with request.urlopen(r) as response:
-        raw_data = response.read()
+    req = Request(
+        starter_url,
+        headers={'User-Agent': 'Mozilla/5.0'})
+    # Open and Read the url's webpage
+    raw_data = urlopen(req).read()
 
     data = raw_data.decode('utf-8')
     useful_data = BeautifulSoup(data, features="html.parser")
@@ -84,7 +92,7 @@ def urlScraper(url_list):
             fileCount += 1
         except:
             pass
-    # Close the file
+        # Close the file
         file.close()
 
     return fileCount
@@ -92,6 +100,8 @@ def urlScraper(url_list):
 
 # This function loops through all of the files and tokenizes them into sentences and puts each sentence
 # on a new line
+# Input: The number of files to go through
+# Output: None
 def tokenize_sentences(file_count):
     iter = 1
     while iter < file_count:
@@ -115,6 +125,8 @@ def tokenize_sentences(file_count):
 
 
 # This function gets the top 40 terms from a group of documents using term frequency and returns it.
+# Input: The number of files to go through
+# Output: A dictionary of the top terms
 def get_top_terms(file_count):
     document_arr = []
 
@@ -127,7 +139,7 @@ def get_top_terms(file_count):
         # close file
         f.close()
 
-        document_arr[iter - 1] = re.sub(r"[\s]+", " ", document_arr[iter-1])
+        document_arr[iter - 1] = re.sub(r"[\s]+", " ", document_arr[iter - 1])
         document_arr[iter - 1] = re.sub(r'[^A-Za-z0-9 ]+', " ", document_arr[iter - 1])
         # print(document_arr[iter - 1])
         iter += 1
@@ -147,17 +159,61 @@ def get_top_terms(file_count):
 # This function gets the term frequencies of a particular document, it first checks if the
 # word is alphabetical, if it isn't a stopword, and if the length of the word is greater than
 # two, it then returns that dict of frequencies back.
+# Input: Text that needs to be tokenized and sorted
+# Output: A dictionary of the count of term
 def term_freq(doc):
     eng_stopwords = stopwords.words('english')
     temp_tf_dict = {}
     doc_tokens = word_tokenize(doc)
-    doc_tokens = [w for w in doc_tokens if w.isalpha() and w not in eng_stopwords and len(w) > 2]
+    doc_tokens = [w for w in doc_tokens if (w.isalpha() and w not in eng_stopwords and len(w) > 2)]
     for t in doc_tokens:
         if t in temp_tf_dict:
             temp_tf_dict[t] += 1
         else:
             temp_tf_dict[t] = 1
     return temp_tf_dict
+
+
+# Build Knowledge Base
+# Input: The number of files to go through to get the infomation
+# Output: The knowledge base dictionary
+def createKnowledgeBase(file_count):
+    # Create Knowledge Base Dict
+    knowledgeBase = {}
+
+    iter = 1
+    while iter < file_count:
+        # open file and read text
+        with open(os.path.join(os.getcwd(), "data" + str(iter) + ".txt"), 'r', encoding='utf-8') as f:
+            text_in = f.read()
+        # close file
+        f.close()
+
+        # Word list for top 10 words
+        word_list = ["nfl", "football", "game", "espn", "team", "player", "rules", "playoff", " pro ",
+                     "college"]
+
+        # Use sent_tokenizer to get the individual sentences
+        str_sent_tokens = sent_tokenize(text_in)
+        # For every sentence
+        for sent in str_sent_tokens:
+            # For every word in the top terms
+            for word in word_list:
+                # If the word is in the sentence
+                if word in sent:
+                    # Add or update the knowledge base with the new sentence
+                    if word in knowledgeBase:
+                        knowledgeBase[word].append(sent)
+                    else:
+                        knowledgeBase[word] = [sent]
+
+        iter += 1
+
+    # Pickle the knowledge base
+    pickle.dump(knowledgeBase, open('knowledgeBase.pickle', 'wb'))
+
+    # Return the output
+    return knowledgeBase
 
 
 # This method clean up a string of text
@@ -186,7 +242,16 @@ if __name__ == '__main__':
     # Tokenize the sentences in each file
     tokenize_sentences(num_files)
 
+    # Get the top terms
     top_terms = get_top_terms(num_files)
 
+    # Create the Knowledge Base
+    createKnowledgeBase(num_files)
 
+    # Unpickle the knowledge base
+    kb_pickled = pickle.load(open('knowledgeBase.pickle', "rb"))
 
+    # Print out the knowledge base
+    print("\nKnowledge Base:")
+    for entry in kb_pickled:
+        print(entry, ":", kb_pickled[entry])

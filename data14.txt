@@ -1,0 +1,83 @@
+ Indicate preferred brand name for Google to display <PageMap><DataObject type="document"><Attribute name="title">Wojciechowski: Pop the cork for a playoff</Attribute></DataObject><DataObject type="thumbnail"><Attribute name="src" value="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" /><Attribute name="width" value="1200" /><Attribute name="height" value="630" /></DataObject></PageMap> test & target - mbox.js abtest data object global Skip to main content Skip to navigation mobile dropdown desktop dropdown mobile dropdown desktop dropdown < > Menu ESPN Search scores NFL NBA NHL NCAAM NCAAW MLB … Boxing CFL Chalk NCAA Cricket F1 Golf LLWS MMA NASCAR NBA G League NCAAF Olympic Sports Racing RN BB RN FB Rugby Soccer Tennis WNBA WWE X Games More ESPN Fantasy Listen Watch ESPN+ NCAAF NCAAF Home Home Recruiting Recruiting Bowl Results Bowl Results Scores Scores Schedule Schedule Standings Standings Stats Stats Teams Teams Rankings Rankings Awards Awards College Football Playoff College Football Playoff Total QBR QBR Player Rankings Player Rankings Football Power Index Football Power Index SP+ Rankings SP+ Rankings SEC Network SEC Network CFB Tickets CFB Tickets ESPN Events ESPN Events no cache Wojciechowski: Pop the cork for a playoff 10y Gene Wojciechowski get: espn-en_story_ncf_33477934_2022-03-21T11:42:57Z_false_false_desktop_full_11 How Michigan, Notre Dame and other CFP hopefuls can take the next step Notre Dame Fighting Irish 7d Heather Dinich get: espn-en_story_ncf_33579477_2022-03-24T14:46:28Z_false_false_desktop_full_11 College football recruiting: The latest on Arch Manning and other top 2023 quarterbacks Alabama Crimson Tide 4d Tom VanHaaren get: espn-en_story_ncf_33596210_2022-03-26T00:48:30Z_false_false_desktop_full_11 USC assistant football coach Nichol dies at 45 USC Trojans 2d Pete Thamel get: espn-en_story_ncf_33595238_2022-03-25T21:55:22Z_false_false_desktop_full_11 OSU increases Gundy's salary to $7.5M annually Oklahoma State Cowboys 2d Dave Wilson set: espn-en_story_ncf_33592184_2022-03-25T15:03:05Z_false_false_desktop_full_11 Manziel: Pro career 'over,' back to 7-on-7 league 3d Kevin Seifert set: espn-en_story_ncf_33585500_2022-03-24T16:55:04Z_false_false_desktop_full_11 SEC hires ex-coach Cutcliffe for football guidance Duke Blue Devils 3d Alex Scarborough set: espn-en_story_ncf_33583916_2022-03-24T16:56:44Z_false_false_desktop_full_11 Congress to hold virtual summit for NCAA reform 4d Dan Murphy get: espn-en_story_ncf_33579858_2022-03-23T22:25:14Z_false_false_desktop_full_11 Stroud's throws to WRs impress at OSU pro day Ohio State Buckeyes 4d Ben Baby get: espn-en_story_ncf_33579156_2022-03-23T19:36:13Z_false_false_desktop_full_11 Michaels, ESPN's Herbstreit to call NFL on Prime 4d get: espn-en_story_ncf_33563800_2022-03-21T23:37:00Z_false_false_desktop_full_11 MAC West preview: Top storylines, players in unpredictable division Northern Illinois Huskies 6d Bill Connelly get: espn-en_story_ncf_33501436_2022-03-16T12:54:41Z_false_false_desktop_full_11 Crowning a champion in college football's 2022 64-team playoff Alabama Crimson Tide 12d Chris Low get: espn-en_story_ncf_33478938_2022-03-15T11:55:02Z_false_false_desktop_full_11 November Madness?
+Breaking down a 64-team playoff bracket for the 2022 college football season Alabama Crimson Tide 13d Chris Low get: espn-en_story_ncf_33461900_2022-03-21T14:41:34Z_false_false_desktop_full_11 Transformation portal: How Jared Verse went from an FCS project to a Power 5 defensive end Florida State Seminoles 14d Andrea Adelson get: espn-en_story_ncf_33501981_2022-03-15T11:52:13Z_false_false_desktop_full_11 MAC East preview: Projections, burning questions, favorite players Akron Zips 13d Bill Connelly get: espn-en_story_ncf_33462087_2022-03-11T02:33:15Z_false_false_desktop_full_11 College football tales from the NFL combine, where NIL is king 17d Pete Thamel get: espn-en_story_ncf_33453955_2022-03-10T16:37:33Z_false_false_desktop_full_11 Ranking college football's 25 best QB situations over the next three seasons Ohio State Buckeyes 18d Adam Rittenberg get: espn-en_story_ncf_33585799_2022-03-25T14:26:51Z_false_false_desktop_full_11 NFL draft buzz notebook: What we're hearing on the Lions at No.
+2, QB rumors, more Liberty Flames 3d Jordan Reid and Matt Miller get: espn-en_story_ncf_33596463_2022-03-26T02:31:27Z_false_false_desktop_full_11 Lane Kiffin uses golf ball for first pitch at Tennessee-Ole Miss baseball game Ole Miss Rebels 2d Alex Scarborough get: espn-en_story_ncf_33596210_2022-03-26T00:48:30Z_false_false_desktop_full_11 USC assistant football coach Nichol dies at 45 USC Trojans 2d Pete Thamel get: espn-en_story_ncf_33595238_2022-03-25T21:55:22Z_false_false_desktop_full_11 OSU increases Gundy's salary to $7.5M annually Oklahoma State Cowboys 2d Dave Wilson set: espn-en_story_ncf_33592184_2022-03-25T15:03:05Z_false_false_desktop_full_11 set: espn-en_story_ncf_33585500_2022-03-24T16:55:04Z_false_false_desktop_full_11 get: espn-en_story_ncf_33579477_2022-03-24T14:46:28Z_false_false_desktop_full_11 College football recruiting: The latest on Arch Manning and other top 2023 quarterbacks Alabama Crimson Tide 4d Tom VanHaaren set: espn-en_story_ncf_33583916_2022-03-24T16:56:44Z_false_false_desktop_full_11 get: espn-en_story_ncf_33564898_2022-03-23T23:44:58Z_false_false_desktop_full_11 Big takeaways from NFL draft quarterback pro days: Matt Corral moves well post-ankle injury, displays quick release Pittsburgh Panthers 4d Todd McShay get: espn-en_story_ncf_33579858_2022-03-23T22:25:14Z_false_false_desktop_full_11 Stroud's throws to WRs impress at OSU pro day Ohio State Buckeyes 4d Ben Baby get: espn-en_story_ncf_33579156_2022-03-23T19:36:13Z_false_false_desktop_full_11 Michaels, ESPN's Herbstreit to call NFL on Prime 4d get: espn-en_story_ncf_33578855_2022-03-23T18:22:09Z_false_false_desktop_full_11 UNC WR diagnosed with cancer, on football hiatus North Carolina Tar Heels 4d Andrea Adelson Presidents get playoff plan right Facebook Twitter Facebook Messenger Email Jun 26, 2012 Gene Wojciechowski Senior Writer Close ESPN.com senior national columnist Joined ESPN in 1998 Author of "The Last Great Game" Follow on Twitter Facebook Twitter Facebook Messenger Pinterest Email print Presenting the five greatest documents in American history: 1.
+The Declaration of Independence.
+2.
+The United States Constitution.
+The BCS Presidential Oversight Committee rang in a new era of college football Tuesday night.
+AP Photo/Alex Brandon 3.
+The Bill of Rights.
+4.
+The 14th Amendment.
+5.
+The just-announced college football playoff agreement.
+I know what you're thinking: This is ridiculous.
+Why is the new 12-year playoff agreement ranked so low?
+And you're right, of course.
+Sure, the life, liberty and pursuit of happiness thing is nice enough, but only the new agreement guarantees a four-team seeded playoff.
+This is a momentous day in the history of college football.
+And thanks to Tuesday's final ratifying vote by the BCS Presidential Oversight Committee, a manageable, logical and lonnnnnnnng overdue playoff system makes the traveling squad in 2014.
+As recently as the 2011 BCS National Championship Game, a BCS spokesperson gravely predicted: "Don't be fooled -- a playoff would be the end of the bowls as we know them."
+When the spokesperson wasn't bashing the idea of a playoff, he was constantly reminding us that the BCS "got it right again."
+And just six months ago, that same spokesperson insisted, "the BCS works well and very well," for all players and fans.
+Yes, it worked so well that 11 conference commissioners and Notre Dame's athletic director gutted the BCS and replaced it with a playoff system, a playoff selection committee, a national championship game that can be bid out to a non-traditional playing site and, eventually, a new brand name.
+And Tuesday in Washington, D.C., the oversight committee approved it all.
+"It's a best-of-both-worlds result," said Charles W. Steger, Virginia Tech president and chair of the committee.
+"It captures the excitement of a playoff while protecting the best regular season in sports and also the tradition of the bowls.
+A four-team playoff doesn't go too far.
+It goes just the right amount."
+The BCS Championship is about to be euthanized -- may it soon rest in peace.
+Gone are the ridiculous polls, the computer standings and the automatic qualifier status extended to favored conferences.
+The bowl system?
+Despite the BCS propaganda of 2011, a playoff isn't going to be "the end of the bowls as we know it."
+That's the beauty of the new agreement.
+It works within the bowl system, not outside of it.
+The decision was a no-brainer.
+Those 11 commissioners and Notre Dame AD Jack Swarbrick did all the heavy lifting.
+They're the ones who scored the playoff touchdown.
+The oversight committee, despite the respectful opposition of Nebraska chancellor Harvey Perlman, simply kicked the extra point.
+Jim Delany, from left, BCS director Bill Hancock and Mike Slive came to a compromise to get a playoff done.
+AP Photo/Alex Brandon Seriously, what's there not to like?
+The bowl system lives.
+The regular season isn't compromised.
+Tradition survives.
+The automatic qualifier is going to swim with the fishes (no more forced Pitt-Utah or Oklahoma-UConn gag-a-thon bowl matchups).
+More money will be generated.
+The majority of fans will get what they crave: a playoff, with those four semifinalists selected by 15 or so committee members who will do much more than just look at the final scores.
+There will be controversy -- and that's OK.
+But at times, the BCS suffered from credibility deficit disguised as controversy.
+The BCS had its heart in the right place, but its brain in the wrong place.
+(A few painful examples: Nebraska, a 62-36 loser in its final regular-season game, still played in the 2002 BCS Championship Game -- and got crushed by Miami; undefeated Auburn was squeezed out of the 2005 BCS Championship Game.)
+Everything about the 2014 version of postseason college football is going to be better than what we have now.
+A Final Four of football is better than a Final Two, especially when the Final Two was determined by a flawed polls model and by computer standings that required interpreters to understand.
+There is no perfect playoff system.
+There will be seasons when the difference between the Nos.
+4- and 5-ranked teams is the width of a chinstrap.
+That's honest controversy.
+But at least the way we determine those differences will make more sense.
+Plus, every one of those 11 conference commissioners, Notre Dame and the oversight committee members signed off on this deal for the next 12 years.
+So if, say, Georgia, or Ohio State, or Texas, or Notre Dame are left on the No.
+5 playoff bubble, then no whining allowed by the SEC's Mike Slive, the Big Ten's Jim Delany, the Big 12's Bob Bowlsby, Notre Dame's Swarbrick -- or any of the commissioners, for that matter.
+Either you trust the new and improved selection mechanism, or you don't.
+Either you can live with a Final Four or not.
+Is the playoff system completely fair?
+No, but it's less unfair than the system it replaces.
+Notre Dame is always going to have certain inherent football advantages over other programs.
+Major conferences such as the Pac-12 are going to have certain advantages over, say, Conference USA.
+I'm a longtime SEC honk, but let's face it, it's a home game for LSU to play for a national championship in the Sugar Bowl.
+So I've got zero problem if St. Louis, Indianapolis, Detroit, Houston or Dallas, among others, end up as hosts of a title game.
+And how can you not love the idea of college football planting a flag in the first or second week of January and delivering national semis in primetime, as well as the other heavy-hitter bowl games?
+Answer: you can't.
+The commissioners, Swarbrick and the presidents aren't done yet.
+They've framed the house.
+Now they've got to put in the drywall and the electrical.
+There remain revenue-sharing issues.
+Access issues.
+Selection-committee issues.
+New-name issues (BCS is so 2012).
+But those items will eventually be resolved.
+All that really matters is college football traded in its rusting, creaky BCS beater for something more postseason efficient.
+I must leave now.
+A champagne bottle awaits.
+Facebook Twitter Facebook Messenger Email Terms of Use Privacy Policy Your California Privacy Rights Children's Online Privacy Policy Interest-Based Ads About Nielsen Measurement Do Not Sell My Info Contact Us Disney Ad Sales Site Work for ESPN Copyright: Â© ESPN Enterprises, Inc. All rights reserved.
+SiteCatalyst code version: AppMeasurement 1.0 Copyright 1996-2013 Adobe, Inc. End SiteCatalyst code version: AppMeasurement 1.0
